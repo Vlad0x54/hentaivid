@@ -33,7 +33,7 @@ Hentaivid is a breakthrough video-based knowledge storage system that leverages 
 <details>
 <summary>View Culturally-Compliant Architecture Diagram</summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arimanyus/hentaivid-assets/main/architecture.svg" alt="Hentaivid Architecture Diagram">
+  <img src="https://github.com/arimanyus/hentaivid/blob/main/hentaivid-assets/architecture.svg" alt="Hentaivid Architecture Diagram">
 </p>
 </details>
 
