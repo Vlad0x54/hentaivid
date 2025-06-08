@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://64.media.tumblr.com/f9e2349124acab5cf49d3d15262eed3f/tumblr_psjzvpDP7k1u1ycqw_400.jpg" width="200" alt="Hentaivid Logo">
+</p>
+
 # 🎌 Hentaivid
 
 **Revolutionary RAG-compatible video storage format that embeds text chunks into QR codes hidden inside pixelated regions of adult content. Zero-database semantic search with maximum cultural authenticity.**
@@ -6,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-> *"Finally, a storage solution that respects Japanese cultural standards while delivering enterprise-grade performance."* - Anonymous Senior Engineer
+> *"My boss thinks I'm researching state-of-the-art data retrieval methods. He's not wrong."* - Anonymous FAANG Sr Engineer
 
 ## 🚀 What is Hentaivid?
 
@@ -22,6 +26,15 @@ Hentaivid is a breakthrough video-based knowledge storage system that leverages 
 - 🔒 **Steganographic Security** - Data hidden in plain sight
 - 📈 **Scalable Architecture** - Handle millions of text chunks
 - 🌐 **Cross-Platform Compatible** - Works on any system with video playback
+
+## 🔬 Technical Architecture
+
+<details>
+<summary>View Culturally-Compliant Architecture Diagram</summary>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Olow304/hentaivid-assets/main/architecture.svg" alt="Hentaivid Architecture Diagram">
+</p>
+</details>
 
 ## 📦 Installation
 
@@ -306,8 +319,6 @@ Check out the examples/ directory for:
 * Multi-language support with unicode QR encoding
 * Real-time knowledge retrieval systems
 * Integration with popular LLMs
-
-## 🔬 Technical Architecture
 
 ### Pixelation Detection Pipeline
 
