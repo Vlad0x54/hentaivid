@@ -1,0 +1,10 @@
+opencv-python
+sentence-transformers
+faiss-cpu
+numpy
+qrcode[pil]
+Pillow
+tqdm
+loguru
+pyzbar
+gradio 
