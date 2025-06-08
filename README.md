@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/f9e2349124acab5cf49d3d15262eed3f/tumblr_psjzvpDP7k1u1ycqw_400.jpg" width="200" alt="Hentaivid Logo">
+  <img src="https://raw.githubusercontent.com/arimanyus/hentaivid-assets/main/hentaivid.jpg" width="600" alt="Hentaivid Visual Abstract">
 </p>
 
 # 🎌 Hentaivid
@@ -32,7 +33,7 @@ Hentaivid is a breakthrough video-based knowledge storage system that leverages 
 <details>
 <summary>View Culturally-Compliant Architecture Diagram</summary>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Olow304/hentaivid-assets/main/architecture.svg" alt="Hentaivid Architecture Diagram">
+  <img src="https://raw.githubusercontent.com/arimanyus/hentaivid-assets/main/architecture.svg" alt="Hentaivid Architecture Diagram">
 </p>
 </details>
 
